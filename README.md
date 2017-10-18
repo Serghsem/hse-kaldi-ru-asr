@@ -26,15 +26,15 @@ The WER statistic is used to evaluate training results of both neural networks. 
 
 dnn5b\_pretrain-dbn_dnn (after cross-entropy training)
 
-%WER 11.96 \[ 413 / 3454, 111 ins, 98 del, 204 sub \]
+%WER 11.57 \[ 672 / 5807, 180 ins, 143 del, 349 sub \]
 
 dnn5b\_pretrain-dbn\_dnn\_smbr (after 1 iteration of sMBR training)
 
-%WER 11.46 \[ 396 / 3454, 118 ins, 77 del, 201 sub \]
+%WER 11.14 \[ 647 / 5807, 182 ins, 118 del, 347 sub \]
 
 dnn5b\_pretrain-dbn\_dnn\_smbr\_i1lats (after re-generating lattices and more iterations of sMBR)
 
-%WER 11.23 \[ 388 / 3454, 113 ins, 69 del, 206 sub \]
+%WER 10.66 \[ 619 / 5807, 169 ins, 115 del, 335 sub \]
 
 #### nnet2
 
