@@ -38,4 +38,4 @@ dnn5b\_pretrain-dbn\_dnn\_smbr\_i1lats (after re-generating lattices and more it
 
 #### nnet2
 
-Still training (to be updated)
+%WER 13.67 \[ 794 / 5807, 245 ins, 138 del, 411 sub \]
